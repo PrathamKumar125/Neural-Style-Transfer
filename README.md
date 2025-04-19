@@ -2,6 +2,12 @@
 
 This project implements Neural Style Transfer using TensorFlow and Gradio. It allows you to blend the content of one image with the style of another, creating unique artistic results.
 
+<br>
+
+![Untitled design](https://github.com/user-attachments/assets/c1d6a252-f41c-4732-96df-01b1308bc533)
+
+<br>
+
 ## Features
 
 - Upload your own content and style images
